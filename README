@@ -1,7 +1,3 @@
-Here’s a possible README for your GitHub project:
-
----
-
 # 🎵 Bringing Retro Sound to Life on an FPGA! 🚀🎮
 
 Listen as this FPGA flawlessly emulates the legendary OPL2 chip from classic AdLib and Sound Blaster sound cards! 🔥🎶 Paired with an I2S codec, it delivers crystal-clear audio, taking FM synthesis from the '80s and '90s to the next level.
@@ -41,9 +37,6 @@ The emulation is enhanced with PWM audio output and I2C communication, making it
 
 Feel free to open issues or pull requests if you'd like to contribute to this project! Your feedback and suggestions are always welcome.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
