@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2AR-18C" package="QFN88" speed="8" partNumber="GW2AR-LV18QN88C8/I7"/>
+    <FileList>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\async.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jt2413.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl2.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_acc.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_csr.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_div.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_cnt.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_comb.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_ctrl.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_final.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_pure.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_step.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_exprom.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_lfo.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_logsin.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_mmr.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_noise.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_op.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_comb.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_inc.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_rhy.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_sum.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pm.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg_ch.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_single_acc.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_slot_cnt.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopll_mmr.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopll_reg.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopll_reg_ch.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\gowin_rpll\gowin_rpll.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\impl\gwsynthesis\OPL2_ALEX_GOWIN.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="OPL2_demo"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="vccx" value="3.3"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

@@ -1,0 +1,131 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v'
+Undeclared symbol 'OPL_snd', assumed default net type 'wire'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":40)
+WARN  (EX3638) : 'OPL_snd' is already implicitly declared on line 40("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":82)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\async.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jt2413.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl2.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_acc.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_csr.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_div.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_cnt.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_comb.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_ctrl.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_final.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_pure.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_step.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_exprom.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_lfo.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_logsin.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_mmr.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_noise.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_op.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_comb.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_inc.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_rhy.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_sum.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pm.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg_ch.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_single_acc.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_slot_cnt.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopll_mmr.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopll_reg.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopll_reg_ch.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\gowin_rpll\gowin_rpll.v'
+WARN  (EX3073) : Port 'dout' remains unconnected for this instance("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":83)
+Compiling module 'OPL2_demo'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":11)
+Compiling module 'Gowin_rPLL'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\gowin_rpll\gowin_rpll.v":10)
+Compiling module 'async_receiver(ClkFrequency=100000000)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\async.v":5)
+Compiling module 'BaudTickGen(ClkFrequency=100000000,Oversampling=8)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\async.v":98)
+Compiling module 'PCM5102'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":111)
+WARN  (EX3791) : Expression size 4 truncated to fit in target size 3("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":122)
+WARN  (EX3791) : Expression size 7 truncated to fit in target size 6("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":138)
+Compiling module 'clock_divider(N=3579545,D=100000000)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":100)
+WARN  (EX3791) : Expression size 27 truncated to fit in target size 26("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":104)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 27("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\OPL2_demo.v":105)
+Compiling module 'jtopl(OPL_TYPE=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl.v":22)
+Compiling module 'jtopl_mmr(OPL_TYPE=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_mmr.v":21)
+Compiling module 'jtopl_div(OPL_TYPE=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_div.v":22)
+Compiling module 'jtopl_reg(OPL_TYPE=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg.v":22)
+Compiling module 'jtopl_slot_cnt'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_slot_cnt.v":22)
+Compiling module 'jtopl_csr(OPL_TYPE=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_csr.v":23)
+Compiling module 'jtopl_sh_rst(width=34)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":22)
+WARN  (EX2428) : Cannot index into scalar type parameter/localparam 'rstval'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":32)
+Compiling module 'jtopl_reg_ch'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg_ch.v":22)
+Extracting RAM for identifier 'reg_fb'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_reg_ch.v":55)
+Compiling module 'jtopl_timers'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v":22)
+Compiling module 'jtopl_timer'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v":76)
+Compiling module 'jtopl_timer(MW=4)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v":76)
+Compiling module 'jtopl_lfo'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_lfo.v":27)
+Compiling module 'jtopl_pg'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg.v":22)
+Compiling module 'jtopl_noise'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_noise.v":27)
+Compiling module 'jtopl_pg_comb'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_comb.v":22)
+Compiling module 'jtopl_pm'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pm.v":23)
+Compiling module 'jtopl_pg_inc'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_inc.v":22)
+Compiling module 'jtopl_pg_sum'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_sum.v":26)
+Extracting RAM for identifier 'factor'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_sum.v":37)
+Compiling module 'jtopl_pg_rhy'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_pg_rhy.v":22)
+Compiling module 'jtopl_sh_rst(width=19)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":22)
+WARN  (EX2428) : Cannot index into scalar type parameter/localparam 'rstval'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":32)
+Compiling module 'jtopl_sh_rst(width=10,stages=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":22)
+WARN  (EX2428) : Cannot index into scalar type parameter/localparam 'rstval'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":32)
+Compiling module 'jtopl_eg'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg.v":22)
+Compiling module 'jtopl_eg_cnt'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_cnt.v":22)
+Compiling module 'jtopl_eg_comb'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_comb.v":22)
+Compiling module 'jtopl_eg_ctrl'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_ctrl.v":22)
+Compiling module 'jtopl_eg_step'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_step.v":22)
+Compiling module 'jtopl_eg_pure'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_pure.v":22)
+Compiling module 'jtopl_eg_final'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_final.v":22)
+Extracting RAM for identifier 'ksl_lut'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg_final.v":38)
+Compiling module 'jtopl_sh(width=1,stages=18)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v":22)
+Compiling module 'jtopl_sh(width=4,stages=3)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v":22)
+Compiling module 'jtopl_sh(width=3,stages=3)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v":22)
+Compiling module 'jtopl_sh_rst(width=10,stages=15,rstval=1'b1)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":22)
+WARN  (EX2428) : Cannot index into scalar type parameter/localparam 'rstval'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":32)
+Compiling module 'jtopl_sh_rst(width=3,rstval=1'b1)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":22)
+WARN  (EX2428) : Cannot index into scalar type parameter/localparam 'rstval'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":32)
+Compiling module 'jtopl_sh_rst(width=1)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":22)
+WARN  (EX2428) : Cannot index into scalar type parameter/localparam 'rstval'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh_rst.v":32)
+Compiling module 'jtopl_op(OPL_TYPE=2)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_op.v":26)
+Compiling module 'jtopl_sh(width=9,stages=3)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v":22)
+Compiling module 'jtopl_sh(width=2,stages=3)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v":22)
+Compiling module 'jtopl_sh(width=26,stages=3)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_sh.v":22)
+Compiling module 'jtopl_logsin'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_logsin.v":26)
+Extracting RAM for identifier 'sinelut'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_logsin.v":33)
+Compiling module 'jtopl_exprom'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_exprom.v":33)
+Extracting RAM for identifier 'explut_jt51'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_exprom.v":41)
+Compiling module 'jtopl_acc'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_acc.v":23)
+Compiling module 'jtopl_single_acc(INW=14,OUTW=16)'("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_single_acc.v":26)
+NOTE  (EX0101) : Current top module is "OPL2_demo"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "jtopl_sh_rst" instantiated to "u_konsh" is swept in optimizing("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_eg.v":200)
+WARN  (NL0002) : The module "jtopl_sh_rst" instantiated to "u_regch" is swept in optimizing("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_csr.v":51)
+WARN  (NL0002) : The module "jtopl_timers" instantiated to "u_timers" is swept in optimizing("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl.v":159)
+WARN  (NL0002) : The module "jtopl_timer" instantiated to "timer_A" is swept in optimizing("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v":59)
+WARN  (NL0002) : The module "jtopl_timer" instantiated to "timer_B" is swept in optimizing("C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\src\jtopl_timers.v":72)
+[95%] Generate netlist file "C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\impl\gwsynthesis\OPL2_ALEX_GOWIN.vg" completed
+[100%] Generate report file "C:\Gowin\Gowin_V1.9.10.03_Education_x64\IDE\bin\Documents\OPL2_ALEX_GOWIN\impl\gwsynthesis\OPL2_ALEX_GOWIN_syn.rpt.html" completed
+GowinSynthesis finish

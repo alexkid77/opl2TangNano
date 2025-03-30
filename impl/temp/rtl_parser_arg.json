@@ -1,0 +1,165 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/OPL2_demo.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/async.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jt2413.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl2.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_acc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_csr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_div.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg_cnt.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg_comb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg_ctrl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg_final.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg_pure.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_eg_step.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_exprom.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_lfo.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_logsin.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_mmr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_noise.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_op.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_pg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_pg_comb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_pg_inc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_pg_rhy.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_pg_sum.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_pm.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_reg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_reg_ch.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_sh.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_sh_rst.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_single_acc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_slot_cnt.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopl_timers.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopll_mmr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopll_reg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/jtopll_reg_ch.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Gowin/Gowin_V1.9.10.03_Education_x64/IDE/bin/Documents/OPL2_ALEX_GOWIN/impl/temp/rtl_parser.result",
+ "Top" : "OPL2_demo",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,50 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88C8/I7">gw2ar18c-000</Device>
+    <FileList>
+        <File path="src/OPL2_demo.v" type="file.verilog" enable="1"/>
+        <File path="src/async.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.v" type="file.verilog" enable="1"/>
+        <File path="src/jt2413.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl2.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_acc.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_csr.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_div.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg_cnt.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg_comb.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg_ctrl.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg_final.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg_pure.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_eg_step.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_exprom.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_lfo.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_logsin.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_mmr.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_noise.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_op.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_pg.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_pg_comb.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_pg_inc.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_pg_rhy.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_pg_sum.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_pm.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_reg.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_reg_ch.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_sh.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_sh_rst.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_single_acc.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_slot_cnt.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopl_timers.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopll_mmr.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopll_reg.v" type="file.verilog" enable="1"/>
+        <File path="src/jtopll_reg_ch.v" type="file.verilog" enable="1"/>
+        <File path="src/OPL2_ALEX_GOWIN.cst" type="file.cst" enable="1"/>
+        <File path="src/OPL2_ALEX_GOWIN.sdc" type="file.sdc" enable="1"/>
+        <File path="src/OPL2_demo.ucf" type="file.other" enable="1"/>
+    </FileList>
+</Project>
